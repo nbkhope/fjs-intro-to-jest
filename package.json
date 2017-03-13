@@ -1,0 +1,11 @@
+{
+  "name": "fjs-intro-to-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "nbkhope",
+  "license": "MIT"
+}
